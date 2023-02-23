@@ -1,26 +1,28 @@
-[
-  {
-     "type":"transaction",
-     "point":4,
-     "note":"Transaksi via Evermos #7526-1663202135",
-     "orderType":"main",
-     "additionalData":{
-        "totalPaymentCourier":"100800",
-        "createdTime":"2022-09-15T07:35:35+07:00"
-     },
-     "createdTime":"2022-09-16T20:11:18+07:00",
-     "IsActive":1
-  },
-  {
-     "id":1462419,
-     "userId":100002139705,
-     "type":"adjustment",
-     "point":30,
-     "note":"Bonus Ulang Tahun \"Juni\" dari Evermos",
-     "orderReceiptId":0,
-     "orderType":"",
-     "additionalData":null,
-     "createdTime":"2022-07-12T16:46:27+07:00",
-     "IsActive":1
-  }
-]
+{
+  "data": [
+    {
+      "type":"transaction",
+      "point":4,
+      "note":"Transaksi via Evermos #7526-1663202135",
+      "orderType":"main",
+      "additionalData":{
+          "totalPaymentCourier":"100800",
+          "createdTime":"2022-09-15T07:35:35+07:00"
+      },
+      "createdTime":"2022-09-16T20:11:18+07:00",
+      "IsActive":1
+    },
+    {
+      "id":1462419,
+      "userId":100002139705,
+      "type":"adjustment",
+      "point":30,
+      "note":"Bonus Ulang Tahun \"Juni\" dari Evermos",
+      "orderReceiptId":0,
+      "orderType":"",
+      "additionalData":null,
+      "createdTime":"2022-07-12T16:46:27+07:00",
+      "IsActive":1
+    }
+  ]
+}
